@@ -6,5 +6,5 @@ stages:
       buildContext: .
       tag: dao-py-build-demo
       pushRemote: true
-      registry: index.docker.io
+      registry: 127.0.0.1:34142
 timeout: 60
